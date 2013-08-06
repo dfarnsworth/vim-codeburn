@@ -44,6 +44,7 @@ if &t_Co > 255
   hi Keyword          ctermfg=223                 cterm=bold
   hi Label            ctermfg=187                 cterm=underline
   hi LineNr           ctermfg=248   ctermbg=235
+  hi MatchParen       ctermfg=none  ctermbg=none  cterm=underline
   hi Macro            ctermfg=223                 cterm=bold
   hi ModeMsg          ctermfg=223                 cterm=none
   hi MoreMsg          ctermfg=15                  cterm=bold
