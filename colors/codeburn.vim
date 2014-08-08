@@ -9,10 +9,6 @@ if exists("syntax_on")
 endif
 let g:colors_name="codeburn"
 
-" pink_light = 181
-" green_light = 108
-" orange_light = 223
-
 if &t_Co > 255
 "    Type             ctermfg=nnn   ctermbg=nnn   cterm=xxxxxx
   hi Boolean          ctermfg=181
